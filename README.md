@@ -1,2 +1,2 @@
 # Sagar-practice-repo
-practicing just for learning
+Flask & Dynamic Database-Driven Web Apps practice 
